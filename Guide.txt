@@ -1,4 +1,5 @@
-build guid
+Build guide
+Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
 
 1  Environment 
    VC build tools 2015.3
@@ -33,7 +34,7 @@ build guid
 
 	6) protobuf-3.4.1.zip unzip to D:grpc-1.6.6/third_party/protobuf
 
-	7).zlib-1.2.11.zip unzip to D:/grpc-1.6.6/third_party/zlib
+	7) zlib-1.2.11.zip unzip to D:/grpc-1.6.6/third_party/zlib
 
     Note: c-ares-cares-1_12_0.zip(grpc1.6.x is not compatible with c-ares-cares-1_13_0)must be unzipped to D:/grpc-1.6.6/third_party/cares/cares, or it will fail。
 
