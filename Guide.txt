@@ -18,6 +18,7 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
            perl -version
            go version
            nasm -v
+	   ninja --version
        Assume there no errors, if there are , pls add relative PATH item. 
 
 3 Download Source files
