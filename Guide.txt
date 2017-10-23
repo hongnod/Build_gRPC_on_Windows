@@ -14,7 +14,7 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
     5) Install nasm:2.13.01
     6) Download Ninja v1.8.2, unzip it, put "ninja.exe" in "C:\Program Files\CMake\bin"
     7) Verify all of them are proper installed with following commands:
-           make -version
+           cmake -version
            perl -version
            go version
            nasm -v
