@@ -27,7 +27,7 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
 
 	2) benchmark-1.2.0.zip unzip to D:/grpc-1.6.6/third_party/benchmark
 
-	3) boringssl-master.zip unzip to D:/grpc-1.6.6/third_party/boringssl
+	3) boringssl-chromium-stable.zip unzip to D:/grpc-1.6.6/third_party/boringssl 
 
 	4) c-ares-cares-1_12_0.zip unzip to D:/grpc-1.6.6/third_party/cares/cares
 
