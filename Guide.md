@@ -21,7 +21,7 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
 	   ninja --version
        Assume there no errors, if there are , pls add relative PATH item. 
 
-3 Download Source files
+3 Download Source files   
 	A:
 		1) grpc-1.6.6.zip unzip to D:/grpc-1.6.6
 
@@ -37,7 +37,7 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
 
 		7) zlib-1.2.11.zip unzip to D:/grpc-1.6.6/third_party/zlib
         Note: c-ares-cares-1_12_0.zip(grpc1.6.x is not compatible with c-ares-cares-1_13_0)must be unzipped to D:/grpc-   1.6.6/third_party/cares/cares, or it will fail。
-     B:
+     B:   
 		1) grpc-1.7.x.zip unzip to D:/grpc-1.7.x
 
 		2) benchmark-1.2.0.zip unzip to D:/grpc-1.7.x/third_party/benchmark
