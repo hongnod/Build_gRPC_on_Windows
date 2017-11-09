@@ -27,4 +27,4 @@ echo cmake -G "NMake Makefiles" -D CMAKE_BUILD_TYPE=%CMAKE_BUILD_TYPE% -D EXECUT
 ::BUILD_SHARED_LIBS=0                    generate static LIB
 cmake -G "NMake Makefiles" -D CMAKE_BUILD_TYPE=%CMAKE_BUILD_TYPE% -D EXECUTABLE_OUTPUT_PATH=%OUTPUT_PATH% -D LIBRARY_OUTPUT_PATH=%OUTPUT_PATH% -D CMAKE_C_FLAGS_RELEASE="/MT /WX-" -D CMAKE_CXX_FLAGS_RELEASE="/MT /WX-" -D BUILD_SHARED_LIBS=0 %CMAKE_PATH%
 nmake grpc grpc++ grpc_cpp_plugin protoc
-:: nmake build all targets
+:: use “nmake” build all targets
