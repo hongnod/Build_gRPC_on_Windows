@@ -1,5 +1,5 @@
 Build guide
-Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
+Thanks to [DC的博文](http://www.cnblogs.com/dongc/p/6876362.html) for your batch files.
 
 1  Environment 
    VC build tools 2015.3
