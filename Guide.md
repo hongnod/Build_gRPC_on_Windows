@@ -22,35 +22,35 @@ Thanks to http://www.cnblogs.com/dongc/p/6876362.html for your batch files.
        Assume there no errors, if there are , pls add relative PATH item. 
 
 3 Download Source files
-    A:
-	1) grpc-1.6.6.zip unzip to D:/grpc-1.6.6
+	A:
+		1) grpc-1.6.6.zip unzip to D:/grpc-1.6.6
 
-	2) benchmark-1.2.0.zip unzip to D:/grpc-1.6.6/third_party/benchmark
+		2) benchmark-1.2.0.zip unzip to D:/grpc-1.6.6/third_party/benchmark
 
-	3) boringssl-chromium-stable.zip unzip to D:/grpc-1.6.6/third_party/boringssl 
+		3) boringssl-chromium-stable.zip unzip to D:/grpc-1.6.6/third_party/boringssl 
 
-	4) c-ares-cares-1_12_0.zip unzip to D:/grpc-1.6.6/third_party/cares/cares
+		4) c-ares-cares-1_12_0.zip unzip to D:/grpc-1.6.6/third_party/cares/cares
 
-	5) gflags-2.2.1.zip unzip to D:/grpc-1.6.6/third_party/gflags
+		5) gflags-2.2.1.zip unzip to D:/grpc-1.6.6/third_party/gflags
 
-	6) protobuf-3.4.1.zip unzip to D:/grpc-1.6.6/third_party/protobuf
+		6) protobuf-3.4.1.zip unzip to D:/grpc-1.6.6/third_party/protobuf
 
-	7) zlib-1.2.11.zip unzip to D:/grpc-1.6.6/third_party/zlib
+		7) zlib-1.2.11.zip unzip to D:/grpc-1.6.6/third_party/zlib
         Note: c-ares-cares-1_12_0.zip(grpc1.6.x is not compatible with c-ares-cares-1_13_0)must be unzipped to D:/grpc-   1.6.6/third_party/cares/cares, or it will fail。
      B:
-	1) grpc-1.7.x.zip unzip to D:/grpc-1.7.x
+		1) grpc-1.7.x.zip unzip to D:/grpc-1.7.x
 
-	2) benchmark-1.2.0.zip unzip to D:/grpc-1.7.x/third_party/benchmark
+		2) benchmark-1.2.0.zip unzip to D:/grpc-1.7.x/third_party/benchmark
 
-	3) boringssl-chromium-stable.zip unzip to D:/grpc-1.7.x/third_party/boringssl 
+		3) boringssl-chromium-stable.zip unzip to D:/grpc-1.7.x/third_party/boringssl 
 
-	4) c-ares-cares-1_13_0.zip unzip to D:/grpc-1.7.x/third_party/cares/cares
+		4) c-ares-cares-1_13_0.zip unzip to D:/grpc-1.7.x/third_party/cares/cares
 
-	5) gflags-2.2.1.zip unzip to D:/grpc-1.7.x/third_party/gflags
+		5) gflags-2.2.1.zip unzip to D:/grpc-1.7.x/third_party/gflags
 
-	6) protobuf-3.4.1.zip unzip to D:/grpc-1.7.x/third_party/protobuf
+		6) protobuf-3.4.1.zip unzip to D:/grpc-1.7.x/third_party/protobuf
 
-	7) zlib-1.2.11.zip unzip to D:/grpc-1.7.x/third_party/zlib      
+		7) zlib-1.2.11.zip unzip to D:/grpc-1.7.x/third_party/zlib      
 4  Build 
 
    a) Option 1 : CMAKE+NMAKE
